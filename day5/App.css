@@ -1,0 +1,14 @@
+.page {
+  padding: 40px;
+  text-align: center;
+}
+
+.page h1 {
+  color: #333;
+  margin-bottom: 15px;
+}
+
+.page p, .page li {
+  font-size: 18px;
+  color: #555;
+}
